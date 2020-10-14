@@ -1,0 +1,13 @@
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\bin\Debug\netcoreapp3.1\Merhaba_Csharp.exe
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\bin\Debug\netcoreapp3.1\Merhaba_Csharp.deps.json
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\bin\Debug\netcoreapp3.1\Merhaba_Csharp.runtimeconfig.json
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\bin\Debug\netcoreapp3.1\Merhaba_Csharp.runtimeconfig.dev.json
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\bin\Debug\netcoreapp3.1\Merhaba_Csharp.dll
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\bin\Debug\netcoreapp3.1\Merhaba_Csharp.pdb
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\obj\Debug\netcoreapp3.1\Merhaba_Csharp.csprojAssemblyReference.cache
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\obj\Debug\netcoreapp3.1\Merhaba_Csharp.AssemblyInfoInputs.cache
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\obj\Debug\netcoreapp3.1\Merhaba_Csharp.AssemblyInfo.cs
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\obj\Debug\netcoreapp3.1\Merhaba_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\obj\Debug\netcoreapp3.1\Merhaba_Csharp.dll
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\obj\Debug\netcoreapp3.1\Merhaba_Csharp.pdb
+C:\Users\yasar\dersler\AUN_2020_YBS317\Merhaba_Csharp\Merhaba_Csharp\obj\Debug\netcoreapp3.1\Merhaba_Csharp.genruntimeconfig.cache
