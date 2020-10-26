@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_3\\Hafta_3\\Hafta_3.csproj",
-      "projectName": "Hafta_3",
-      "projectPath": "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_3\\Hafta_3\\Hafta_3.csproj",
+      "projectUniqueName": "C:\\Users\\yasar\\source\\repos\\Hafta_4\\Hafta_4\\Hafta_4.csproj",
+      "projectName": "Hafta_4",
+      "projectPath": "C:\\Users\\yasar\\source\\repos\\Hafta_4\\Hafta_4\\Hafta_4.csproj",
       "packagesPath": "C:\\Users\\yasar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_3\\Hafta_3\\obj\\",
+      "outputPath": "C:\\Users\\yasar\\source\\repos\\Hafta_4\\Hafta_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
