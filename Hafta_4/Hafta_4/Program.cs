@@ -23,6 +23,8 @@ namespace Hafta_4
             List<int> film_sene = new List<int>();
             List<string> film_yonetmen = new List<string>();
             List<string> film_basroller = new List<string>();
+
+            List<string> marketten_al = new List<string>();
             //
             //Film isimleri
             film_ismi.Add("Esaretin Bedeli");
@@ -86,7 +88,7 @@ namespace Hafta_4
             film_yonetmen[i] = "Frank Darabot";
             film_basroller[i] = "Tim Robbins; Morgan Freeman; Bob Gunton";
 
-            i++;//The shining
+            i++;//The shining 
             film_ismi[i] = "The Shining";
             film_turu[i] = "Korku";
             film_sene[i] = 1980;

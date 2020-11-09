@@ -12,7 +12,25 @@ namespace Hafta_3
             // hata_kontrol_user_dogum_yili();
             // if_else_kontrolu();
             // ulke_baskentleri();
-            ulke_baskentleri_switch();
+            //ulke_baskentleri_switch();
+            try_catch_finally();
+        }
+
+        private static void try_catch_finally()
+        {
+            try
+            {
+                Console.WriteLine("Try bloğu");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("catch bloğu");
+                throw;
+            }
+            finally
+            {
+                Console.WriteLine("Finally bloğu");
+            }
 
         }
 

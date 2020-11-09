@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_4\\Hafta_4\\Hafta_4.csproj": {}
+    "C:\\Users\\yasar\\source\\repos\\Hafta_6\\Hafta_6\\Hafta_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_4\\Hafta_4\\Hafta_4.csproj": {
+    "C:\\Users\\yasar\\source\\repos\\Hafta_6\\Hafta_6\\Hafta_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_4\\Hafta_4\\Hafta_4.csproj",
-        "projectName": "Hafta_4",
-        "projectPath": "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_4\\Hafta_4\\Hafta_4.csproj",
+        "projectUniqueName": "C:\\Users\\yasar\\source\\repos\\Hafta_6\\Hafta_6\\Hafta_6.csproj",
+        "projectName": "Hafta_6",
+        "projectPath": "C:\\Users\\yasar\\source\\repos\\Hafta_6\\Hafta_6\\Hafta_6.csproj",
         "packagesPath": "C:\\Users\\yasar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasar\\dersler\\AUN_2020_YBS317\\Hafta_4\\Hafta_4\\obj\\",
+        "outputPath": "C:\\Users\\yasar\\source\\repos\\Hafta_6\\Hafta_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ C:\Users\yasar\source\repos\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.cspr
 C:\Users\yasar\source\repos\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.dll
 C:\Users\yasar\source\repos\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.pdb
 C:\Users\yasar\source\repos\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.genruntimeconfig.cache
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\bin\Debug\netcoreapp3.1\Hafta_4.exe
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\bin\Debug\netcoreapp3.1\Hafta_4.deps.json
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\bin\Debug\netcoreapp3.1\Hafta_4.runtimeconfig.json
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\bin\Debug\netcoreapp3.1\Hafta_4.runtimeconfig.dev.json
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\bin\Debug\netcoreapp3.1\Hafta_4.dll
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\bin\Debug\netcoreapp3.1\Hafta_4.pdb
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.csprojAssemblyReference.cache
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.AssemblyInfoInputs.cache
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.AssemblyInfo.cs
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.csproj.CoreCompileInputs.cache
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.dll
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.pdb
+C:\Users\yasar\dersler\AUN_2020_YBS317\Hafta_4\Hafta_4\obj\Debug\netcoreapp3.1\Hafta_4.genruntimeconfig.cache
