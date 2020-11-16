@@ -13,7 +13,16 @@ namespace Hafta_4
             // for_while_loop_method();
             // for_break_continue_method();
             // film_listesi();
-            list_array_film_listesi();
+            // list_array_film_listesi();
+            Genre genre = new Genre();
+            genre.Name = "Hello";
+            Console.WriteLine(genre.Name);
+            
+        }
+
+        private class Genre
+        {
+            public String Name;
         }
 
         private static void list_array_film_listesi()
