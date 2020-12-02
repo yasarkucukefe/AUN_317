@@ -15,13 +15,32 @@ namespace Hafta_7
             //while_loop_dongu();
             //do_while_loop_dongu();
             //try_catch_finally();
-            int faktoriyel = faktoriyel_hesapla(5);
-            Console.WriteLine(faktoriyel);
+            //int faktoriyel = faktoriyel_hesapla(5);
+            //Console.WriteLine(faktoriyel);
+            yeni_sekil();
+        }
+
+
+
+
+        private static void yeni_sekil()
+        {
+            Sekil sekil = new Sekil(2);
+        }
+        class Sekil
+        {
+            public Sekil(int cap)
+            {
+                Console.WriteLine("Daire");
+            }
+            public Sekil(int a, int b)
+            {
+                Console.WriteLine("Kare");
+            }
         }
 
         private static int faktoriyel_hesapla(int rakam)
         {
-            // 5 faktoriyel = 5*4*3*2*1
             if(rakam == 1) 
             { 
                 return rakam; 
@@ -145,6 +164,8 @@ namespace Hafta_7
             Console.WriteLine(arac.uretici+" "+arac.model+" "+arac.get_sene()+" "+arac.renk);
         }
     }
+
+    
 
     class Arac_sesi : Yakit_tuketimi
     {
