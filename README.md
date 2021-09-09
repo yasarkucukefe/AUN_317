@@ -1,2 +1,2 @@
-# AUN_2020_YBS317
+# AUN_YBS317
 Programlama-I dersi
