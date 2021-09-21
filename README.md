@@ -1,4 +1,4 @@
-# AUN_YBS317
+# Programlama I
 Altınbaş Üniversitesi 
 Yönetim Bilişim Sistemleri Bölümü
 Programlama-I dersi
