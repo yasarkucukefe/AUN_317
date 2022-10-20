@@ -1,0 +1,16 @@
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\bin\Debug\net5.0\Hafta_1.exe
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\bin\Debug\net5.0\Hafta_1.deps.json
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\bin\Debug\net5.0\Hafta_1.runtimeconfig.json
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\bin\Debug\net5.0\Hafta_1.runtimeconfig.dev.json
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\bin\Debug\net5.0\Hafta_1.dll
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\bin\Debug\net5.0\ref\Hafta_1.dll
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\bin\Debug\net5.0\Hafta_1.pdb
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.csproj.AssemblyReference.cache
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.AssemblyInfoInputs.cache
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.AssemblyInfo.cs
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.csproj.CoreCompileInputs.cache
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.dll
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\ref\Hafta_1.dll
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.pdb
+C:\dersler\guz\AUN_317\Hafta_1\Hafta_1\obj\Debug\net5.0\Hafta_1.genruntimeconfig.cache
