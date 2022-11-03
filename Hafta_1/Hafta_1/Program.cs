@@ -26,6 +26,9 @@ namespace Hafta_1
 
         }
 
+
+
+
         static void if_kontrol(int x)
         {
             if(x < 5)
@@ -53,6 +56,8 @@ namespace Hafta_1
                 Console.WriteLine("Ceviz");
             }
         }
+
+
 
 
         static string if_kontrol_mertcan(int x)
