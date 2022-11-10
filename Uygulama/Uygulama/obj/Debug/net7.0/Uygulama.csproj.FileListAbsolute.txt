@@ -1,0 +1,15 @@
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\bin\Debug\net7.0\Uygulama.exe
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\bin\Debug\net7.0\Uygulama.deps.json
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\bin\Debug\net7.0\Uygulama.runtimeconfig.json
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\bin\Debug\net7.0\Uygulama.dll
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\bin\Debug\net7.0\Uygulama.pdb
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.csproj.AssemblyReference.cache
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.AssemblyInfoInputs.cache
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.AssemblyInfo.cs
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.csproj.CoreCompileInputs.cache
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.dll
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\refint\Uygulama.dll
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.pdb
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\Uygulama.genruntimeconfig.cache
+C:\dersler\guz\AUN_317\Uygulama\Uygulama\obj\Debug\net7.0\ref\Uygulama.dll
