@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xa4gpFhi+fn9xbqbaSK4SnQjo/6b3nPdbMCThPW6TKTyHZRK/5o77/iKDJXR74IBmbfMElZodZExXcaGeR5deg==",
+  "success": true,
+  "projectFilePath": "C:\\dersler\\guz\\AUN_317\\Hafta_12\\Hafta_12\\Hafta_12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasar\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\yasar\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
