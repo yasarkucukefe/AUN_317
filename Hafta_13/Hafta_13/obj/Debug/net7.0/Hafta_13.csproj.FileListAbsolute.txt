@@ -1,0 +1,15 @@
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\bin\Debug\net7.0\Hafta_13.exe
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\bin\Debug\net7.0\Hafta_13.deps.json
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\bin\Debug\net7.0\Hafta_13.runtimeconfig.json
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\bin\Debug\net7.0\Hafta_13.dll
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\bin\Debug\net7.0\Hafta_13.pdb
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.csproj.AssemblyReference.cache
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.AssemblyInfoInputs.cache
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.AssemblyInfo.cs
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.csproj.CoreCompileInputs.cache
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.dll
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\refint\Hafta_13.dll
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.pdb
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\Hafta_13.genruntimeconfig.cache
+C:\dersler\guz\AUN_317\Hafta_13\Hafta_13\obj\Debug\net7.0\ref\Hafta_13.dll
